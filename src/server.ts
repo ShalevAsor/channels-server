@@ -40,7 +40,7 @@ const WS_JWT_SECRET = process.env.WS_JWT_SECRET!;
  * Define allowed origins for CORS
  */
 const allowedOrigins = [
-  "https://your-frontend-domain.com",
+  "https://channels-livid.vercel.app",
   "http://localhost:3000",
 ];
 
